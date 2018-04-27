@@ -1,0 +1,12 @@
+body{
+	background-color: grey;
+}
+
+h2{
+	text-align: center;
+
+}
+#name{
+	padding: 5px;
+	margin-left:40%;
+}
